@@ -27,7 +27,7 @@
 
 Скачиваем полностью содержимое репозитория. Зелёная кнопка *"Clone or download"* -> *"Download ZIP"* 
 
-![](https://docs.google.com/uc?id=1ttkLq_sBzFaDNnVT2wP6As5pkYihOUwK)
+![](https://docs.google.com/uc?id=1awE1Ioc1zbVngAB5imIGk8sw_wUsE-VF)
 
 
 Распаковываем архив, в папке *erz_22* запускаем файл *setup.exe*
