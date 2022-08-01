@@ -4,13 +4,19 @@
 
 В данной раскладке буквы расположены также, как и в кириллической ЙЦУКЕН. Отсутствующие в эрзянском языке буквы **q**, **w**, **x** заменены на дополнительные символы **ä**, **š**, **č**, **ž**, **ě**, **ü**, **ö**. Для обозначения мягкости добавлен диакритический знак **акут** (U+0301).
 
-![Расскладка клавиатуры](https://docs.google.com/uc?id=1G1ku041y8ugn6F58HigL4oqw5HxYtkN2)
+![Расскладка клавиатуры](https://docs.google.com/uc?id=1LiJy122haZtSbs_fsnVaFvtKN2ZefBDU)
 
 С зажатой клавишой Shift
 
-![С зажатой клавишой Shift](https://docs.google.com/uc?id=1bLadlvec1btNtVhQCJWe74uGRVQjAOZe)
+![С зажатой клавишой Shift](https://docs.google.com/uc?id=1DJ690twUYrBT41KU3n_0bPCvumVzSuiz)
 
-<hr>
+С зажатыми клавишами Alt+Ctrl
+
+![С зажатыми клавишами Alt+Ctrl](https://docs.google.com/uc?id=1n3DyjQSz30VK1Cy9VLUDRiNUMU5OmTgI)
+
+С зажатыми клавишами Shift и Alt+Ctrl
+
+![С зажатыми клавишами Shift и Alt+Ctrl](https://docs.google.com/uc?id=1NOl2jZTpEOo8X2KUk3eH3wNz0kBYrmjd)
 
 ## Установка
 
